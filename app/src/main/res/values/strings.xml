@@ -1,0 +1,45 @@
+<resources>
+    <string name="app_name">Online Shopping</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="menu_home">Home</string>
+    <string name="menu_gallery">Gallery</string>
+    <string name="menu_slideshow">Slideshow</string>
+    <string name="here_s_n_your_first_n_step_with_n_us">Here\'s\nyour first\nstep with\nus!</string>
+    <string name="name">Name</string>
+    <string name="email">E-mail</string>
+    <string name="password">Password</string>
+    <string name="confirm_password">Confirm Password</string>
+    <string name="register">Register</string>
+    <string name="already_have_an_account">Already have an account?</string>
+    <string name="already_nhave_an_naccount">Already\nhave an\nAccount?</string>
+    <string name="login">LOGIN</string>
+    <string name="new_user_register_now">New user? Register Now</string>
+    <string name="aniketh_pratihar">Aniketh_Pratihar</string>
+    <string name="developer_gmail_com">developer@gmail.com</string>
+    <string name="aniketh_pratihar12">Aniketh Pratihar</string>
+    <string name="phone_no">Phone No</string>
+    <string name="_1234567856">8564782254</string>
+    <string name="address">Address</string>
+    <string name="kharagpur_west_bengal">Kharagpur,West Bengal</string>
+    <string name="d_o_b">D.O.B</string>
+    <string name="_23_05_2001">23-07-2001</string>
+    <string name="account_info">Account Info</string>
+    <string name="levis_s">LEVIS\'S</string>
+    <string name="white_women_t_shirt">White Woman T-shirt</string>
+    <string name="rs_1050">Rs - 1050</string>
+    <string name="place_order">PLACE ORDER</string>
+    <string name="account_information">Account Information</string>
+    <string name="cart">Cart</string>
+    <string name="sign_out_group_menu">Sign-Out</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="no_items_in_your_cart">No Items in Your cart</string>
+    <string name="abc">ABC</string>
+    <string name="abc_gmail_com">abc@gmail.com</string>
+</resources>
